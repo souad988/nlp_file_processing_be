@@ -84,25 +84,25 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:  
-cd my-folder  
-git clone git@github.com:souad988/nlp_file_processing_be.git 
+  cd my-folder  
+  git clone git@github.com:souad988/nlp_file_processing_be.git 
 
 Install  
 Install this project with:  
-pip install -r requirements.txt  
+  pip install -r requirements.txt  
 
 Add.env file to the root with these variables:  
-DB_USER=<postgres username>  
-DB_PASSWORD=<postgres password>  
-DB_NAME=<nlp_file_processing>   
-DB_HOST=<localhost>  
-OPENAI_KEY=<openai API key>  
+  DB_USER=<postgres username>  
+  DB_PASSWORD=<postgres password>  
+  DB_NAME=<nlp_file_processing>   
+  DB_HOST=<localhost>  
+  OPENAI_KEY=<openai API key>  
 
 
 ### Usage
 To run the project, execute the following command:
-create database and tables : python3 app/db_migrations.py
-run server: uvicorn main:app --reload
+  -create database and tables : python3 app/db_migrations.py
+  -run server: uvicorn main:app --reload
 
 
 <!-- AUTHORS -->
@@ -111,15 +111,15 @@ run server: uvicorn main:app --reload
 
 - GitHub: [@githubhandle](https://github.com/souad988)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/souad-el-mansouri/)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+  
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 🔭 Future Features <a name="future-features"></a>
- [Refactore backend code and separate functionalities]
- [Add user authentication]
- [Add multi tabs for old conversations]
+
+-[Refactore backend code and separate functionalities]
+-[Add user authentication]
+-[Add multi tabs for old conversations]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -134,10 +134,9 @@ Feel free to check the issues page.
 ⭐️ Show your support <a name="support"></a>
 If you like this project please show your support by adding a star
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LICENSE -->
 📝 License <a name="license"></a>
 This project is MIT licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-```
+
