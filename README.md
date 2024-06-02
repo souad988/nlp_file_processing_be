@@ -36,7 +36,7 @@
 
 ## LIVE DEMO
 
-You can also see a video of mine of a demonstration in this link ([demo](https://www.loom.com/share/2458d25e3ce345249c590ea44cdca778?sid=a2c6fd89-2d29-4b22-bd21-63f46a8ba969))
+You can also see a video of mine of a demonstration in this link ([(https://www.loom.com/share/2458d25e3ce345249c590ea44cdca778?sid=a2c6fd89-2d29-4b22-bd21-63f46a8ba969)](https://www.loom.com/share/385230aaa50049f596cb41edb0c8fcbb?sid=1c52c8e6-98e8-43e8-b433-5c36904c666c))
 
 <!-- GETTING STARTED -->
 
